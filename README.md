@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Samriddhi 👋
 
-<!--
-**Samriddhi2406/Samriddhi2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student | 💻 Learning & Exploring Technology 
 
-Here are some ideas to get you started:
+I'm currently learning coding and exploring different areas of technology. I enjoy working on projects, learning new things, and improving my skills along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- MySQL
+- Communication & Public Speaking
+
+## 🌱 Currently Learning
+- HTML & CSS
+- Git & GitHub
+- Web Development
+- Problem Solving
+
+## 🚀 Goals
+To keep learning, build cool projects, and get better at what I do.
+
+## 📫 Let's Connect
+Always happy to learn, collaborate, and try something new!
